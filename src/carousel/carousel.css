@@ -1,0 +1,9 @@
+.carousel-image {
+  width: 400px;
+  height: auto;
+  border-radius: 30px;
+}
+
+.arrow-container {
+  margin-top: 30px;
+}
